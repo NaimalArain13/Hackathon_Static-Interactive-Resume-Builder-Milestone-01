@@ -5,6 +5,12 @@ body {
     padding: 20px;
     background-color: #f0f2f5;
 }
+.nav h1 , .foot p{
+    text-align: center;
+    margin-bottom: 8px;
+    color: rgb(49, 49, 167);
+}
+
 
 /* resume div styling */
 .resume {
